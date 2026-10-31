@@ -1,0 +1,11 @@
+{
+    "display_name": "Inline AI Edit",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "version": "1.0.0",
+    "homePage": "https://github.com/ZeadenBeake/sillytavern-snip-edit",
+    "auto_update": true
+}
